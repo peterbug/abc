@@ -1,0 +1,500 @@
+  420  find -d=1 buil* 
+  421  find -d 1 buil* 
+  422  find -depth=1 buil* 
+  423  find --depth=1 buil* 
+  424  find . -depth=1 -name buil* 
+  425  find . -maxdepth=1 -name buil* 
+  426  man find
+  427  find . -d=1 -name buil* 
+  428  find . -d 1 -name buil* 
+  429  find . -name *.css
+  430  webpack
+  431  ls
+  432  cd ..
+  433  ls
+  434  npm run dev m freePhone
+  435  npm run dev m freePhone
+  436  git init
+  437  ls
+  438  git add .
+  439  git status
+  440  npm run dev m freePhone
+  441  npm run dev mx freePhone
+  442  npm run dev m freePhone
+  443  npm run dev mx freePhone
+  444  npm run dev
+  445  npm run dev
+  446  cd ..
+  447  ls
+  448  npm run dev m freePhone
+  449  npm run dev m freePhone
+  450  npm run dev m freePhone
+  451  pwd
+  452  npm run dev mx freePhone
+  453  pwd
+  454  npm run dev mx freePhone
+  455  npm run dev mx freePhone
+  456  npm run dev mx freePhone
+  457  npm run dev mx freePhone
+  458  npm run dev mx freePhone
+  459  npm run dev mx freePhone
+  460  npm run dev mx freePhone
+  461  npm run dev mx freePhone
+  462  npm run dev mx freePhone
+  463  npm run dev mx freePhone
+  464  npm run dev mx freePhone
+  465  npm run dev mx freePhone
+  466  npm run dev
+  467  npm run dev
+  468  git status
+  469  git log
+  470  git status
+  471  pwd
+  472  ls
+  473  cd ..
+  474  ls
+  475  pwd
+  476  cd one1/
+  477  npm run dev
+  478  npm run dev
+  479  npm run dev
+  480  npm run dev
+  481  npm run dev
+  482  npm run dev
+  483  npm run dev
+  484  npm run dev
+  485  npm run dev
+  486  ls -al
+  487  npm run dev
+  488  npm run dev
+  489  npm run dev
+  490  npm run dev
+  491  npm run dev
+  492  npm run dev
+  493  npm run dev web ppn2
+  494  npm run dev web ppn2
+  495  npm run dev web ppn2
+  496  npm run dev web ppn2
+  497  npm run dev web ppn2
+  498  npm run dev m ppn2
+  499  cd work/
+  500  cd eif-market-website/
+  501  cd src/
+  502  ls
+  503  cd main/
+  504  ls
+  505  cd v2
+  506  npm run dev m christmas
+  507  npm run dev m freePhone
+  508  npm run dev m freehone
+  509  npm run dev m freephone
+  510  npm run dev m freePhone
+  511  npm run dev m freePhone
+  512  npm run dev m freePhone
+  513  npm run dev m freePhone
+  514  npm run dev m freePhone
+  515  npm run dev m freePhone
+  516  npm run dev m freePhone
+  517  npm run dev m freePhone
+  518  npm run dev m freePhone
+  519  npm run dev m freePhone
+  520  npm run dev m freePhone
+  521  npm run dev m freePhone
+  522  npm run dev m freePhone
+  523  npm run dev m freePhone
+  524  npm run dev m freePhone
+  525  npm run dev m freePhone
+  526  npm run dev m freePhone
+  527  npm run dev m freePhone
+  528  npm run dev m freePhone
+  529  npm run dev m freePhone
+  530  pwd
+  531  npm run dev m freePhone
+  532  npm run dev m freePhone
+  533  npm run dev m freePhone
+  534  npm run dev m freePhone
+  535  npm run dev m freePhone
+  536  npm run dev m freePhone
+  537  npm run dev m freePhone
+  538  npm run dev m freePhone
+  539  npm run dev m freePhone
+  540  npm run dev m freePhone
+  541  npm run dev m freePhone
+  542  npm run dev m freePhone
+  543  npm run dev m freePhone
+  544  npm run dev m freePhone
+  545  npm run dev m freePhone
+  546  npm run dev m freePhone
+  547  npm run dev m freePhone
+  548  npm run dev m freePhone
+  549  npm install qs
+  550  npm run dev m freePhone
+  551  npm run dev m freePhone
+  552  npm run dev m freePhone
+  553  npm run dev m freePhone
+  554  npm install
+  555  npm run dev m freePhone
+  556  npm run dev m freePhone
+  557  npm run dev m freePhone
+  558  npm run dev m freePhone
+  559  pwd
+  560  git diff
+  561  ls
+  562  pwd
+  563  npm run dev m freePhone
+  564  npm run dev m freePhone
+  565  npm run dev m freePhone
+  566  npm run dev m freePhone
+  567  npm run dev m freePhone
+  568  npm run dev m freePhone
+  569  git diff
+  570  pwd
+  571  ls
+  572  cd src/
+  573  ls
+  574  cd module/
+  575  ls
+  576  cd m
+  577  ls
+  578  git status
+  579  git diff
+  580  open .
+  581  npm run dev m freePhone
+  582  npm run dev m freePhone
+  583  git diff
+  584  pwd
+  585  git diff
+  586  git status
+  587  git checkout *.ftl
+  588  git checkout ../../../../webapp/scripts/app/snow/euroLeague/main.js
+  589  git checkout ../../../../webapp/scripts/app/snow/euroLeague/index.js
+  590  git checkout ../../../../webapp/scripts/app/snow/euroLeague/guessBallSuccess.js
+  591  git checkout ../../../../webapp/WEB-INF/views/snow/euroLeague/main.ftl
+  592  git checkout ../../../../webapp/WEB-INF/views/snow/euroLeague/index.ftl
+  593  git checkout ../../service/$http.js
+  594  git status
+  595  git diff
+  596  cd ..
+  597  pwd
+  598  cd ..
+  599  cd ..
+  600  ls
+  601  pwd
+  602  cd ..
+  603  cd ..
+  604  ls
+  605  pwd
+  606  cd ..
+  607  git status
+  608  git diff src/main/v2/src/service/$http.js
+  609  git diff src/main/v2/src/service/$http.js
+  610  git diff 'src/main/v2/src/service/$http.js'
+  611  git check 'src/main/v2/src/service/$http.js'
+  612  git checkout 'src/main/v2/src/service/$http.js'
+  613  git status
+  614  git diff package
+  615  git diff package.json 
+  616   git status
+  617  git diff build/dev-server.js
+  618  git checkout build/dev-server.js
+  619  git diff
+  620  git status
+  621  git diff src/main/v2/package.json
+  622  git status
+  623  git diff src/main/v2/src/common/js/http.js
+  624  git checkout src/main/v2/src/common/js/http.js
+  625  git status
+  626  git diff src/main/v2/build/dev-server.js
+  627  git status
+  628  git diff src/main/v2/config/dev.js
+  629  git diff src/main/v2/config/dev.js
+  630  git checkout src/main/v2/config/dev.js
+  631  git status
+  632  git diff src/main/v2/src/module/m/freePhone/index.vue
+  633  git diff
+  634  git diff
+  635  git status
+  636  git status
+  637  git add src/main/v2/src/module/m/freePhone/index.vue
+  638  git checkout package.json
+  639  git checkout src/main/v2/build/dev-server.js
+  640  git checkout src/main/v2/package.json
+  641  git status
+  642  git checkout package-lock.json
+  643  git branch -b temp_release_3.3_20181029
+  644  git checkout -b temp_release_3.3_20181029
+  645  git status
+  646  git commit -m "for freephone"
+  647  git push origin temp_release_3.3_20181029
+  648  git commit -amend
+  649  git commit --amend
+  650  git push origin temp_release_3.3_20181029
+  651  git branch -r
+  652  pwd
+  653  git branch -m release_3.4_20181029
+  654  git branch -d
+  655  git branch -d --help
+  656  git branch -d :temp_release_3.3_20181029
+  657  git branch -d -r temp_release_3.3_20181029
+  658  git branch -D -r temp_release_3.3_20181029
+  659  git branch -D -r temp_release_3.3_20181029
+  660  git branch -D -r temp_release_3.3_20181029
+  661  git log
+  662  git branch -D -r temp_release_3.3_20181029
+  663  git branch -r
+  664  git branch -m release_3.4_20181029 temp_release_3.3_20181029
+  665  git push --delete origin temp_release_3.3_20181029
+  666  git branch -m release_3.4_20181029
+  667  git push origin release_3.4_20181029
+  668  git branch -r
+  669  cd ..
+  670  ls
+  671  git clone ssh://vcs-user@oa.hengjs.com:23/diffusion/MARKETWEBSITE/eif-market-website.git xx1
+  672  ls
+  673  cd xx1
+  674  ls
+  675  git branch -r
+  676  cd ..
+  677  rm -fr xx1
+  678  ls
+  679  cd eif-market-website
+  680  git status
+  681  git log
+  682  git diff
+  683  git status
+  684  git diff 
+  685  git status
+  686  git checkout src/main/v2/build/dev-server.js
+  687  git commit -am "NoTask free phone"
+  688  git push 
+  689  git push --set-upstream origin release_3.4_20181029
+  690  git push 
+  691  git diff
+  692  git status
+  693  git commit -am "NoTask free phone"
+  694  git push
+  695  git diff
+  696  git commit -am "NoTask free phone"
+  697  git push
+  698  git diff
+  699  git log
+  700  git show a49c237f58
+  701  git log --oneline
+  702  git commit -am "NoTask free phone"
+  703  git push
+  704  git diff
+  705  git status
+  706  git commit -am "NoTask free phone"
+  707  git push
+  708  git statuspp
+  709  git diff
+  710  git diff
+  711  git diff
+  712  git commit -am "NoTask free phone"
+  713  git push
+  714  git diff
+  715  git diff
+  716  git commit -am "NoTask free phone"
+  717  git push
+  718  git log --oneline
+  719  git show e422f32e2
+  720  git status
+  721  git log
+  722  grep 'staticPath' *.*
+  723  grep 'staticPath'
+  724  ls
+  725  ls 
+  726  ls -al
+  727  find . -name *.* | grep staticPath
+  728  find . -name '*.*' | grep staticPath
+  729  find . -name '*.*'
+  730  find . -name '*.*' | xargs grep 'staticPath'
+  731  find . -name '*.*' | xargs grep 'staticPath='
+  732  find . -name '*.*' | xargs grep 'staticPath ='
+  733  find . -name '*.*' -type d| xargs grep 'staticPath ='
+  734  find . -name '*.*' -type f| xargs grep 'staticPath ='
+  735  find . -name '*.*' -type f | xargs grep 'staticPath ='
+  736  find . -name '*.*' -type f | xargs grep 'staticPath'
+  737  git log --oneline
+  738  git log
+  739  git log | grep Author
+  740  find . -name '*.*' -type f | xargs grep 'staticPath'
+  741  find . -name '*.*' -type f | xargs grep 'staticPath'
+  742  git status
+  743  ls
+  744  cd target/
+  745  ls
+  746  cd eif-customer-website
+  747  ls
+  748  find . -name abouthd*
+  749  find . -name aboutHengda*
+  750  ls
+  751  cd WEB-INF/
+  752  ls
+  753  ls
+  754  cd classes/
+  755  ls
+  756  cd com/
+  757  ls
+  758  cd eif/i
+  759  cd eif/
+  760  ls
+  761  cd website/
+  762  ls
+  763  cd bean/
+  764  ls
+  765  cd ..
+  766  cd controller/
+  767  ls
+  768  cd snow/
+  769  ls
+  770  ls
+  771  ls
+  772  cd ..
+  773  ls
+  774  cd ..
+  775  ls
+  776  cd ..
+  777  ls
+  778  pwd
+  779  cd ..
+  780  ls
+  781  cd ..
+  782  ls
+  783  pwd
+  784  cd ..
+  785  cd ..
+  786  cd ..
+  787  ls
+  788  pwd
+  789  cd ..
+  790  ls
+  791  cd src/
+  792  ls
+  793  cd main/
+  794  ls
+  795  cd webapp/
+  796  ls
+  797  cd WEB-INF/
+  798  ls
+  799  cd web.xml 
+  800  ls
+  801  cd views/
+  802  ls
+  803  cd snow/
+  804  ls
+  805  pwd
+  806  cd
+  807  cd work/
+  808  cd eif-customer-website/
+  809  find . -name 'fee*'
+  810  git diff
+  811  git diff
+  812  git checkout src/main/resources/serverConfig.properties
+  813  git diff
+  814  git diff
+  815  find . -name grunt*
+  816  find . -name grunt* | cd
+  817  find . -name grunt* | more $1
+  818  find . -name grunt* | cd $1
+  819  find . -name grunt* 
+  820  cd ./src/main/grunt
+  821  ls
+  822  grunt
+  823  cd ..
+  824  grunt
+  825  pwd
+  826  cd 
+  827  cd git
+  828  ls *ok*
+  829  ls
+  830  find . -name "*http*"
+  831  ls
+  832  cd Ruler/
+  833  ls
+  834  git remote -v
+  835  cd ..
+  836  cd android/
+  837  ls
+  838  git remote -v
+  839  cd ..
+  840  cd Ruler/
+  841* git push origin master
+  842  git push origin master:https://github.com/peterbug/DictionaryJ
+  843  git remote add DictionaryJ https://github.com/peterbug/DictionaryJ
+  844  git log
+  845  git status
+  846  git commit -am "bug dict.cn and download mp3, but mp3 plays error"
+  847  git push
+  848  git push master
+  849  git push --set-upstream master master
+  850  git branch -r
+  851  git push origin master
+  852  git push
+  853  git push origin master
+  854  git push mater master
+  855  git push master master
+  856  git push https://github.com/peterbug/DictionaryJ master
+  857  git push https://github.com/peterbug/DictionaryJ master
+  858  git push https://github.com/peterbug/DictionaryJ master
+  859  git push https://github.com/peterbug/ master
+  860  git push https://github.com/peterbug master
+  861  git push DictionaryJ master:DictionaryJ
+  862  git remote add DictionaryJ https://github.com/peterbug/DictionaryJ.git
+  863  git push DictionaryJ master:DictionaryJ
+  864  git remote -v
+  865  git push master
+  866  git push --set-upstream master master
+  867  git push DictionaryJ master:DictionaryJ
+  868  git push origin master
+  869  git push
+  870  git remote -v
+  871  git push DictionaryJA master:DictionaryJ
+  872  git push DictionaryJA master
+  873  git push DictionaryJ master
+  874  git push master master:DictionaryJ
+  875  git push DictionaryJ master:DictionaryJ
+  876  git branch -r
+  877  git remote -v
+  878  git push DictionaryJ master:DictionaryJ -f
+  879  git remote add origin https://github.com/peterbug/DictionaryJ.git
+  880  git remote -v
+  881  git push origin master:DictionaryJ
+  882  git push -u origin master
+  883  git remote -v
+  884  git remote -vgit remote add origin https://peterbug@github.com/peterbug/DictionaryJ.git
+  885  git remote add origin https://peterbug@github.com/peterbug/DictionaryJ.git
+  886  git status
+  887  git push -u origin master:https://peterbug@github.com/peterbug/DictionaryJ.git
+  888  git push -u origin master
+  889  cd ..
+  890  mkdir test
+  891  cd test
+  892  ls
+  893  cd ..
+  894  mkdir a
+  895  mkdir abc
+  896  cd abc
+  897  touch a.txt
+  898  vi a.txt
+  899  git init
+  900  git add .
+  901  git commit -m "first commit"
+  902  git remote add origin http://peterbug@github.com/peterbug/abc.git
+  903  git remote -v
+  904  git push origin master:abc
+  905  git push origin master:abc
+  906  git push -u origin master
+  907  git remote -v
+  908  git remote add origin https://peterbug@github.com/peterbug/abc.git
+  909  git remote -v
+  910  git remote add origin https://github.com/peterbug/abc.git
+  911  git push origin master
+  912  git push origin master:abc
+  913  cd ..
+  914  ls
+  915  ls G*
+  916  cd abc
+  917  ls
+  918  history
+  919  history >a.txt
